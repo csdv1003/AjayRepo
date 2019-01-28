@@ -18,6 +18,6 @@ cout<<c;
 int main()
 {
 add a;
-a.cal;
+a.cal();
 return 0;
 }
