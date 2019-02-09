@@ -2,6 +2,10 @@
 using namespace std;
 class des
 {
+  des()
+  {
+  cout<<"cons called";
+  }
 ~des()
 {
 cout<<"des called";
