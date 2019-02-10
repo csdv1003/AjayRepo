@@ -20,8 +20,6 @@ class volume
 };
 int main()
 {
-	volume v;
-	volume *ptr;
-	ptr=&v;
+	volume *ptr=new volume;
 	ptr->vol();
 }
