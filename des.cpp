@@ -2,6 +2,7 @@
 using namespace std;
 class des
 {
+  public:
   des()
   {
   cout<<"cons called";
@@ -10,7 +11,7 @@ class des
 {
 cout<<"des called";
 }
-  public:
+ 
   void dis()
   {
   cout<<"code for cons and des";
