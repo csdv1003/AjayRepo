@@ -1,1 +1,2 @@
-# This is a repository for SCM thoery
+# NOT FOR SCM THOERY
+# NOT FOR SUBMITTING WORK
